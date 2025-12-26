@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elazarev-0077b5)](https://www.linkedin.com/in/elazarev/)
 [![Telegram](https://img.shields.io/badge/Telegram-evg_lazarev-1686b1)](https://t.me/evg_lazarev)
 
+<!--
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslazarev&theme=transparent)
+-->
 
 ![Engineering Matrix](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslazarev&theme=transparent)
